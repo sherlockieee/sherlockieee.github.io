@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sherlockieee.github.io/sitemap.xml
+Host: https://sherlockieee.github.io
