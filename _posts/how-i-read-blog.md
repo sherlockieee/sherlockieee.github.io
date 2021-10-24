@@ -3,6 +3,7 @@ title: How I Read Blogs
 date: 2021-08-01
 tags:
 - tools-for-thoughts
+- growth
 ---
 
 Something I've noticed myself doing a lot is getting into article wormholes - where, similar to people getting in wormholes on Youtube, I would just read endless articles from an author, until suddenly it's 2 AM and my eyes refuse to open. While it's a fun experience, more often than not I ended up forgetting everything the next day and learnt nothing from it all despite feeling like I'm productive (i.e. productivity porn). Here's what I'm doing to make the experience a bit more useful:

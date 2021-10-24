@@ -17,7 +17,7 @@ module.exports = {
   comment: 'Thoughts, loosely organized.',
   name: 'Ha Tran Nguyen Phuong',
   company: 'Minerva University',
-  location: 'San Francisco',
+  location: 'Berlin, Germany',
   email: 'phuonghatrannguyen00@gmail.com',
   website: '',           // ex.'https://junhobaik.github.io'
   linkedin: 'https://www.linkedin.com/in/trannguyenphuongha/',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'

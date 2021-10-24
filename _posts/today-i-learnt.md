@@ -3,6 +3,7 @@ title: Today I Learnt
 date: 2021-08-23
 tags:
 - software
+- growth
 ---
 
 **Warning**: This article contains probably 5% important information and 95% rants.

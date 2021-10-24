@@ -2,8 +2,8 @@
 title: Will climate change cause humans to go extinct?
 date: 2020-08-29
 tags:
-- book-notes
 - climate
+- books
 ---
 
 The short answer: Probably not.

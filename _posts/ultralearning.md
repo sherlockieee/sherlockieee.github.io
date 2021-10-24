@@ -2,7 +2,8 @@
 title: How To Learn Most Effectively - An Ultra-learning Framework
 date: 2021-05-06
 tags:
-- book-notes
+- books
+- growth
 ---
 
 With 4 months of summer stretching across the horizons, I know I want to embark on a personal learning journey where I can make the most use of my summer. Coincidentally, as I was planning, my friend Esther introduced me to this book, [Ultralearning](https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/B07ST3Z1Q6/ref=sr_1_1?crid=D02KJQQ8NWAE&dchild=1&keywords=ultralearning&qid=1589173668&sprefix=ultralearning%2Caps%2C197&sr=8-1) by Scott Young, famous for his MIT challenge where he learnt 4 years of MIT-undergraduate computer science curriculum in a year. Naturally, I was curious not just at his dedication, but his efficiency, and wanted to implement it with my summer plan. After reading and taking notes, I feel the need to share them, so more people can understand the framework, and work on it as well. Thus, I present the following two posts:
