@@ -2,7 +2,7 @@
 title: Awesome climate solutions that no one seems to be talking about
 date: 2020-07-18
 tags:
-- book-notes
+- books
 - climate
 ---
 

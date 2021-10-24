@@ -3,7 +3,7 @@ title: The Black Swan & Events That Change The World
 date: 2020-05-04
 tags:
 - climate
-- book-notes
+- books
 ---
 
 
