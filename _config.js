@@ -4,7 +4,7 @@ module.exports = {
   description: `Thoughts, loosely organized.`,          // (* Required)
   author: `Ha (sherlockieee)`,                         // (* Required)
   language: 'en',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://sherlockieee.github.io',                      // (* Required)
+  siteUrl: 'https://sherlockieee.netlify.app',                      // (* Required)
     // ex.'https://junhobaik.github.io'
     // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
 
