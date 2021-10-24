@@ -1,5 +1,6 @@
 # Hi, I'm Ha :)
-Originally from Hanoi, Vietnam, currently @[Minerva University](https://www.minerva.edu/)
+Originally from Hanoi, Vietnam, currently @Minerva University
+
 Visit [my website](https://sherlockieee.netlify.app/) for more information + follow my blog :)
 
 [Contact me](mailto:phuonghatrannguyen00@gmail.com) to talk about:
