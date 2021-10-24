@@ -1,6 +1,6 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `Hello, World`,                           // (* Required)
+  title: `Ha Tran Nguyen Phuong`,                           // (* Required)
   description: `Thoughts, loosely organized.`,          // (* Required)
   author: `Ha (sherlockieee)`,                         // (* Required)
   language: 'en',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
