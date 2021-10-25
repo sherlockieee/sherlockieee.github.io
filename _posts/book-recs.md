@@ -1,7 +1,7 @@
 ---
 title: Book Recommendations
-date: 2020-05-04
-update: 2020-06-01
+date: 2021-05-04
+update: 2021-06-01
 tags:
 - books
 ---
@@ -93,4 +93,4 @@ A list of books I love. To have updates on my readings, reviews & books read, fo
 
 [1984](https://www.goodreads.com/book/show/40961427-1984?ac=1&from_search=true&qid=CyjdB9FGJK&rank=1)
 
-[Harry Potter Series](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone?from_search=true&from_srp=true&qid=Q5hunw0qrm&rank=2)
+[Harry Potter Series](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone?from_search=true&from_srp=true&qid=Q5hunw0qrm&rank=2) (but borrow it from a library because JK Rowling is problematic :))
