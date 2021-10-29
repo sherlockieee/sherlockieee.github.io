@@ -1,9 +1,9 @@
 ---
 title: What I've Learnt from an Intense Recruiting Season
-date: 2021-05-04
-update: 2021-06-01
+date: 2021-10-29
 tags:
-- books
+- growth
+- software
 ---
 
 *Context: I just ended my recruiting season with offers from Robinhood, Brex, Intuit, Tableau (Salesforce) and Facebook, after 4 months of intense prepping. Here's a reflection of the process.*
@@ -14,7 +14,7 @@ Like getting into big tech, which funnily enough, gave me the easiest interviews
 
 ## 2. Conversely, the things that might seem easy, are actually not.
 
-Like writing good code. Only when I did mock interviews did I realize how easy it is to forgo good conventions for quick and easy tricks. Or explaining my thoughts process. I always thought my code makes sense, until I start doing mock interviews and realize that I can stumble and not explain fundamental concepts, which means I don't understand something enough and need to revise again. 
+Like writing good code. Only when I did mock interviews did I realize how easy it is to forgo good conventions for quick and easy tricks. Or explaining my thoughts process. I always thought my code makes sense, until I start doing mock interviews and realize that I can stumble and not explain fundamental concepts, which means I don't understand something enough and need to revise again. Or debugging. God is it painful.
 
 ## 3. It's never too late.
 
