@@ -4,6 +4,7 @@ a:visited {
   color: inherit;
 }
 
+
 .index-wrap {
   display: flex;
 
@@ -30,8 +31,19 @@ a:visited {
   .index-post-list-wrap {
     width: 100%;
 
+    
+
     & > div {
       margin: 0 auto;
+    }
+
+    .index-about {
+      max-width: 640px;
+
+      a {
+        cursor: pointer;
+        text-decoration: underline;
+      }
     }
 
     .show-more-posts {

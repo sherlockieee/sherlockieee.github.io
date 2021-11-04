@@ -5,6 +5,7 @@ import { faFacebook, faInstagram, faLinkedin, faGithub } from '@fortawesome/free
 
 import './bio.scss';
 import config from '../../../_config';
+import { Link } from 'gatsby';
 
 const Bio = () => {
   const { comment, name, company, location, email, website, linkedin, facebook, instagram, github } = config;
@@ -60,6 +61,14 @@ const Bio = () => {
           </a>
         </div>
       )}
+
+      <div className="bio-item about">
+        <Link to="/about">About me</Link>
+      </div>
+
+      <div className="bio-item books">
+        <Link to="/books">Book Recommendations</Link>
+      </div>
 
       <div className="social">
         <a href={`${config.siteUrl}/rss`} target="_blank" rel="noopener noreferrer">

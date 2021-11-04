@@ -1,6 +1,6 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `Ha Tran Nguyen Phuong`,                           // (* Required)
+  title: `Ha (sherlockieee)`,                           // (* Required)
   description: `Thoughts, loosely organized.`,          // (* Required)
   author: `Ha`,                         // (* Required)
   language: 'en',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
@@ -20,10 +20,10 @@ module.exports = {
   location: 'Berlin, Germany',
   email: 'phuonghatrannguyen00@gmail.com',
   website: '',           // ex.'https://junhobaik.github.io'
-  linkedin: 'https://www.linkedin.com/in/trannguyenphuongha/',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
-  facebook: '',                                                          // ex.'https://www.facebook.com/zuck' or 'https://www.facebook.com/profile.php?id=000000000000000'
-  instagram: '',                                                         // ex.'https://www.instagram.com/junhobaik'
-  github: 'https://github.com/sherlockieee',                                                            // ex.'https://github.com/junhobaik'
+  linkedin: 'https://www.linkedin.com/in/trannguyenphuongha/',                                                       
+  facebook: '',                                                          
+  instagram: '',                                                         
+  github: 'https://github.com/sherlockieee',                                                           
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)

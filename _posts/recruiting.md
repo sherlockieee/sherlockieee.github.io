@@ -1,5 +1,5 @@
 ---
-title: What I've Learnt from an Intense Recruiting Season
+title: What I've Learnt from Recruiting Season
 date: 2021-10-29
 tags:
 - growth
@@ -28,7 +28,7 @@ Nowadays, when someone ask me about technical interviews, I usually just give th
 
 2. Practice. 
 
-That's it![^1]
+That's it! [^1]
 
 If it sounds simple (and repetitive), it's supposed to be! Yet from my observations, few people take the time to understand the concepts, and even fewer have the discipline to practice consistently. It's the same advice everywhere, anyone you ask, because they work!
 
