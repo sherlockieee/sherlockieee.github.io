@@ -56,6 +56,5 @@ This reminds me of a quote, and I've never felt it to be more true in the last 4
 
 *Thanks to Esther Yang for reading and commenting on the draft version of this.*
 
----
 
 [^1]: To be fair, each of them warrants a very long essay on how to understand the fundamentals (what even are they), and how to practice effectively. But the point still stands. If you don't understand the fundamentals, you reach a celling and can't go higher. If you don't practice, it's a lot harder to be good at it, no matter how efficient your practice is.
