@@ -16,13 +16,12 @@ If you are lucky enough that your school has covered everything, be sure to revi
 
 ## Practice
 It started with a 30-day coding challenge with my friend.
-()[]
 
 This is extremely useful because I can be very inconsistent, which means I would be motivated for 3 days and then stopped my progress. Having my friend who checked in on me daily motivated me to keep my momentum going. 
 However, since my friend is doing Data Science, I need a separate system for my practice. I simply duplicated the Notion page from (Engineering with Utsav)[https://www.youtube.com/watch?v=7UlslIXHNsw] which had over 200 questions, and started practicing from their. His system is incredible because it uses pseudo-space repetition as you would revisit questions that you don't remember first, and practice more regularly. 
 A few things I've learnt from this process:
 1. Be consistent. Do 5 questions a day - if you can't - do 3 - or do 1. Whatever it is, try to be consistent with it. 
-- Coding is like building muscle. You can't be in the gym for 8 hours for 1 day and expect to build muscles. It's the same with coding.
+    - Coding is like building muscle. You can't be in the gym for 8 hours for 1 day and expect to build muscles. It's the same with coding.
 2. But! Quality over quantity. It's better to do a question 3 times than 3 questions 1 time. Remember, interviewer doesn't want to know how many questions you have solved, only whether you can solve their problem. Make sure that, for every question that you met, if you revisit it again some time later, you can solve it.
 3. If you get stuck for 5 minutes, take a peek at the solution/ general approach. If you get stuck for another 5, read the answers, learn how they approach it, implement it yourself, and remember to revisit it later. Don't try to struggle too hard, instead, look for ways to improve your answers/ try out different approaches.
 6. Stick to 1 language and practice it. Preferably Python because it is short and that saves you time when you're coding. But learn the syntax inside out, know where to import heap, stack, queue, how to create a class if needed, and so on. 
@@ -41,12 +40,12 @@ A few tips:
 This is harder than you think. I've read probably 10 different articles explaining DP before I found one that I finally "got it". I was also scouring the Internet on How to do binary search and its variations and couldn't found those for a while (only to stumble on them by accident). You will know when you find them: it's like before you were trying to memorize code, but now you have the tools to come up with the answer on your own. 
 Where I find good explanations: Leetcode Discuss, HackerNoon 14 patterns
 2. Build mental models, such as:
-Interviewing process:
-- How would I approach the questions? (Ask clarifying edge case > Go through Pseudocode > Code up solution > Runtime complexity > Test case)
-- What clarifying question would I ask? 
-Approaching questions:
-- What type of data structure and algorithm should I use?
-- How to approach specific type of question. If it's a Tree traversal for instance, is it pre-order, in-order or post-order? 
+    Interviewing process:
+        - How would I approach the questions? (Ask clarifying edge case > Go through Pseudocode > Code up solution > Runtime complexity > Test case)
+        - What clarifying question would I ask? 
+    Approaching questions:
+        - What type of data structure and algorithm should I use?
+        - How to approach specific type of question. If it's a Tree traversal for instance, is it pre-order, in-order or post-order? 
 3. Be proactive! While I do think it's difficult to find quality resources, they still exist! And hopefully, if you go through enough resources, you can find them. When I started pivoting to software engineering, my Youtube feed was basically just Computer Science, and I would reach out to everyone I know who was a SWE to ask for advice (and a bunch of people that I don't know too :)). Even if you don't know a lot from 1 person, if 5 people say something over and over again, then you have to follow that advice!
 
 ## Final reminder
