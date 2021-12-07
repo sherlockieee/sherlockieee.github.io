@@ -18,7 +18,7 @@ If you are lucky enough that your school has covered everything, be sure to revi
 It started with a 30-day coding challenge with my friend.
 
 This is extremely useful because I can be very inconsistent, which means I would be motivated for 3 days and then stopped my progress. Having my friend who checked in on me daily motivated me to keep my momentum going. 
-However, since my friend is doing Data Science, I need a separate system for my practice. I simply duplicated the Notion page from (Engineering with Utsav)[https://www.youtube.com/watch?v=7UlslIXHNsw] which had over 200 questions, and started practicing from their. His system is incredible because it uses pseudo-space repetition as you would revisit questions that you don't remember first, and practice more regularly. 
+However, since my friend is doing Data Science, I need a separate system for my practice. I simply duplicated the Notion page from [Engineering with Utsav](https://www.youtube.com/watch?v=7UlslIXHNsw) which had over 200 questions, and started practicing from their. His system is incredible because it uses pseudo-space repetition as you would revisit questions that you don't remember first, and practice more regularly. 
 A few things I've learnt from this process:
 1. Be consistent. Do 5 questions a day - if you can't - do 3 - or do 1. Whatever it is, try to be consistent with it. 
     - Coding is like building muscle. You can't be in the gym for 8 hours for 1 day and expect to build muscles. It's the same with coding.
@@ -37,7 +37,8 @@ A few tips:
 
 ## Other tips I've learnt along the way
 1. Find good explanations.
-This is harder than you think. I've read probably 10 different articles explaining DP before I found one that I finally "got it". I was also scouring the Internet on How to do binary search and its variations and couldn't found those for a while (only to stumble on them by accident). You will know when you find them: it's like before you were trying to memorize code, but now you have the tools to come up with the answer on your own. 
+This is harder than you think. I've read probably 10 different articles explaining DP before I found one where I read and finally felt like I got it. I was also scouring the Internet on "How to do binary search and its variations"TM and couldn't found those for a while (only to stumble on them by accident). You will know when you find them: it's like before you were trying to memorize code, but now you have the tools to come up with the answer on your own. 
+
 Where I find good explanations: Leetcode Discuss, HackerNoon 14 patterns
 2. Build mental models, such as:
     Interviewing process:
