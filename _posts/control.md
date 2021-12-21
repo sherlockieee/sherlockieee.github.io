@@ -1,6 +1,6 @@
 ---
 title: On what we can, and cannot control
-date: 2021-21-12
+date: 2021-12-21
 tags:
 - musing
 ---
