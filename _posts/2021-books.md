@@ -11,13 +11,13 @@ Also, because I only read books I enjoy, I have a much longer list of books I lo
 
 ## Best book of the year
 
-![Nonviolent communication](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/07e45e73-7435-4d5e-9346-9ef6f2a45466/Untitled.png)
+![Nonviolent communication](https://images-na.ssl-images-amazon.com/images/I/41rlC3pY1pL._SX332_BO1,204,203,200_.jpg)
 
 If there’s only 1 book I think everyone should read, it’s **[Nonviolent communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication).** Only after reading it do I realize how violent my communication can be, even with me actively trying to not hurt the other person. I have learnt techniques that have changed how I communicate, to make me a kinder, better communicator. I’m still struggling to apply this technique, but I can feel myself understanding my needs and others better, and as a result facilitate the conversation better. I will definitely revisit the book and its concepts again and again. Truly, I think the world will be a better place if everyone reads this book.
 
 ## Best Fictions
 
-![Pachinko](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/824edde2-8c1c-4755-a71c-e7359e1c3e12/Untitled.png)
+![Pachinko](http://prodimage.images-bn.com/pimages/9781455563920_p0_v4_s1200x630.jpg)
 
 1. [Pachinko](https://www.goodreads.com/book/show/34051011-pachinko?ac=1&from_search=true&qid=c5ScDBMgYB&rank=1).
     
