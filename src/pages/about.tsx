@@ -15,8 +15,9 @@ function about() {
             <h2>Hello, World!</h2>
             <p>
               {' '}
-              I'm Ha. I'm originally from Hanoi, Vietnam, spent 4 (transformative) years of my life in Singapore, and am
-              now at <a href="https://www.minerva.edu/">Minerva University</a>.
+              I'm Ha. I'm originally from Hanoi, Vietnam, and am now at{' '}
+              <a href="https://www.minerva.edu/">Minerva University</a>. In the past, I've been lucky enough to live in
+              5 countries (Vietnam, Singapore, US, Germany and UK), and finger-crossed, 2 more (Argentina and Taiwan).
             </p>
             <p>
               I believe in the power of the tools we use to solve complex problems. My favourite tools currently
@@ -25,8 +26,8 @@ function about() {
             </p>
             <p>
               I think we need more people work on important things, such as solving climate change. I'm especially
-              interested in carbon sequestration using enhanced weathering with olivine. Shoot me an email if you want
-              to chat!
+              interested in carbon sequestration using enhanced weathering with olivine, and the intersection between
+              web3 and regenerative finance. Shoot me an email if you want to chat!
             </p>
             <p>
               Lastly, I love reading and try to maintain an active list{' '}
