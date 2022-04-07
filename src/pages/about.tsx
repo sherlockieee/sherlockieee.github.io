@@ -15,9 +15,10 @@ function about() {
             <h2>Hello, World!</h2>
             <p>
               {' '}
-              I'm Ha. I'm originally from Hanoi, Vietnam, and am now at{' '}
-              <a href="https://www.minerva.edu/">Minerva University</a>. In the past, I've been lucky enough to live in
-              5 countries (Vietnam, Singapore, US, Germany and UK), and finger-crossed, 2 more (Argentina and Taiwan).
+              I'm Ha. I'm originally from Hanoi, Vietnam, and am now doing software engineering @ Robinhood, and a
+              junior in CS @ <a href="https://www.minerva.edu/">Minerva University</a>. In the past, I've been lucky
+              enough to live in 5 countries (Vietnam, Singapore, US, Germany and UK), and finger-crossed, 2 more
+              (Argentina and Taiwan).
             </p>
             <p>
               I believe in the power of the tools we use to solve complex problems. My favourite tools currently
