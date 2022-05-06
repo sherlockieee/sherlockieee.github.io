@@ -17,7 +17,7 @@ If there’s only 1 book I think everyone should read, it’s **[Nonviolent comm
 
 ## Best Fictions
 
-![Pachinko](http://prodimage.images-bn.com/pimages/9781455563920_p0_v4_s1200x630.jpg)
+![Pachinko](https://images.squarespace-cdn.com/content/v1/6130188e699d872ddba29e5d/1630876541659-F7B964X13M6ZXAJKRHMJ/Pachinko.jpg?format=1500w)
 
 1. [Pachinko](https://www.goodreads.com/book/show/34051011-pachinko?ac=1&from_search=true&qid=c5ScDBMgYB&rank=1).
     
