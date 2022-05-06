@@ -11,18 +11,17 @@
     margin-top: 2rem;
     margin-bottom: 1rem;
   }
-  ul {
+  ol, ul {
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 1rem;
+
     p {
       margin: 0;
     }
-  }
-  li {
-    margin-bottom: 0;
-  }
-  & > ul {
-    margin-bottom: 1rem;
+
+    ol, ul {
+      margin-bottom: 0;
+    }
   }
   hr {
     margin: 1.5rem 0;

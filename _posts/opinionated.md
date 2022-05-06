@@ -42,7 +42,7 @@ Hence, this guide. It is a result of a lot of trial and errors, blood, sweat and
 
 - I got 5 internship offers my junior year (Facebook, Robinhood, Tableau/ Salesforce, Brex, Intuit) and a few more final interview rounds that I end up not going.
 - I got a 100% conversion rate from interview to offer (all 5 companies that interview me extend an offer).
-- More importantly, I ****did not Leetcode ****before the summer, nor was I in any fancy internship/ fancy school names. My resume was pretty trash and I had to revise ~50 times before getting into interview rounds. Also didn’t make use of diversity program for second year (which in hindsight is pretty dumb), and didn’t code until my first year in college. I think I just had a solid strategy + hard work + consistency.
+- More importantly, I **did not Leetcode** before the summer, nor was I in any fancy internship/ fancy school names. My resume was pretty trash and I had to revise ~50 times before getting into interview rounds. Also didn’t make use of diversity program for second year (which in hindsight is pretty dumb), and didn’t code until my first year in college. I think I just had a solid strategy + hard work + consistency.
 - I really believe anyone can get a SWE internship if they put their mind into it. It’s actually pretty simple if you were to ask me.
 
 ## Why SWE?
@@ -85,11 +85,13 @@ To get a SWE internship, you need to:
 - Nail your interview
 
 That’s about it. Each of these things we can break down further, but as long as you do these components well, the path is pretty straightforward.
-## A good resume
-### Content
-A good resume should showcase one thing:
 
-- You can code.
+## A good resume
+
+### Resume content
+A good resume should first and foremost showcase one thing:
+
+**You can code.**
 
 That’s about it. Anything else that is on the resume that is not related to this information, while useful, will not be as relevant. You can lead 400 people in a charity that raises $100,000, but if you are applying for software engineering, that doesn’t matter until you also prove that you can code. Sure, you can argue that means you have leadership potential, you can communicate, etc. but all of that **is dependent on you being able to code** as a software engineer. So make sure to showcase that first.
 
@@ -103,7 +105,7 @@ How to show you can code, in order of preference (the higher the rank, the more 
 5. Education and classes
 6. Previous internship experience not related to coding e.g. working at coffee shop, working as a business analysts, etc.
 
-I think number 2 specifically is **massively underrated.** It avoids the chicken-and-egg problem of finding a job: most jobs require work experience, but you can’t get an experience until you get a job. With voluntary work, you get the experience and learning required so you can apply for jobs later. It is also, surprisingly easy to find, provided you are resourceful enough. The downside of course, is that they are usually unpaid. But I also think **unpaid internships** have a bad reputation - if you can afford to do it, maybe you should, provided that you learn something from the experience. Especially for software, often what you learn in school is very outdated/ insufficient that even a little industry experience (and a functioning codebase) would get you massively more exposure than school. So if you can afford to do an unpaid internship when living at your parents’ home for a summer, it’s a net good overall. **#broadframing**
+I think number 2 specifically is **massively underrated.** It avoids the chicken-and-egg problem of finding a job: most jobs require work experience, but you can’t get an experience until you get a job. With voluntary work, you get the experience and learning required so you can apply for jobs later. It is also, surprisingly easy to find, provided you are resourceful enough. The downside of course, is that they are usually unpaid. But I also think **unpaid internships** have a bad reputation - if you can afford to do it, maybe you should, provided that you learn something from the experience. Especially for software, often what you learn in school is very outdated/ insufficient that even a little industry experience (and a functioning codebase) would get you massively more exposure than school. So if you can afford to do an unpaid internship when living at your parents’ home for a summer, it’s a net good overall. #broadframing
 
 Also, brief notes on 4, 5 and 6. 4 is good, but unreliable because it’s easy to copy code from elsewhere, but it’s better to have 4, in my opinion, than to have 6. If you find your resume a bit sparse, this is also the best place to start because you can easily build 2-3 projects in a month working on the weekend. It’s much better to have 2 technical projects that you can elaborate on (even if you just follow a Youtube tutorials) than to fill up the resume with work experience about a barista. 5 might be more important if you go to Harvard/ MIT/ etc. but if not, the classes you take usually tell nothing about whether you can code or not, so it ranks pretty low.
 

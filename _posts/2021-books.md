@@ -34,7 +34,7 @@ If there’s only 1 book I think everyone should read, it’s **[Nonviolent comm
 
 ## Best Non-fictions
 
-![Netflix and the culture of reinvention](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85141c98-90d0-4719-9a39-92a32be67318/Untitled.png)
+![Netflix and the culture of reinvention](https://images-na.ssl-images-amazon.com/images/I/71KCwxodiJL.jpg)
 
 1. [Non-violent communication.](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
     
@@ -70,12 +70,12 @@ I hope to read 50 books in 2022 again, and with the same permission to drop book
 - Read more books on software (only read Refactoring UI and The Effective Engineer this year)
     - Read Head First Design Patterns
     - Read Designing Data Intensive Applications
-- Have more random books that I just want to explore! (Like Cosmic Serpents) + Get recommendations from friends (like The Tao of Pooh, Cosmic Serpent, etc.
+- Have more random books that I just want to explore! (Like Cosmic Serpents) + Get recommendations from friends (like The Tao of Pooh, Cosmic Serpent, etc.)
 - Go to bookstores more often. A lot of cool books (Three women, Normal People, etc.) I found were when I just did book window-shopping :))
 
 If you have made it this far, firstly, thank you, and secondly, I have two requests:
 
-1. If you think there’s a book I’ll enjoy, please shoot me an email me at phuonghatrannguyen00@gmail.com. I can’t guarantee I will read it, but I will definitely read the sypnosis and decide whether I will add it to my TBR pile.
+1. If you think there’s a book I’ll enjoy, please shoot me an email me at phuonghatrannguyen00@gmail.com. I can’t guarantee I will read it, but I will definitely read the synopsis and decide whether I will add it to my TBR pile.
 2. If you read regularly, please join Goodreads, rate the books you read and [add me as a friend](https://www.goodreads.com/user/show/50839792-ha-tran-nguyen-phuong)! I love going through (translation: stalking) people reading list and finding new  books. I also think it’s a pretty cool community to be a part of.
 
 That’s all. Happy 2022!

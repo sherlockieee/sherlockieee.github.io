@@ -6,8 +6,9 @@ tags:
 - musing
 ---
 
-My friend recently showed me a start-up slide deck raising its seed round. The start-up has an accumulative $2 Million in GTV. Wow, that’s a huge number, I commented, but what does GTV mean? Turns out, it’s gross transaction value, the total volume of everything going through a marketplace. While that’s still impressive, suddenly I’m a bit more doubtful. Why is that their metric of choice? Why aren’t they talking about revenue? Why is it accumulative, and not month-to-month? What about churn rate? The number was a great selling point, but it says little about how well the business is doing.
+My friend recently showed me a start-up slide deck raising its seed round. The start-up is a marketplace (think Amazon) and has an accumulative \$2 Million in GTV. Wow, that’s a huge number, but what does GTV mean? Turns out, it’s gross transaction value, the total transactional volume of every item in a marketplace. So for instance, if I post an item on Amazon that costs \$20, and Amazon takes 1% listing price, then its GTV is \$20 while its revenue might only be \$0.2. While that’s still impressive, suddenly I’m a bit more doubtful. Why is that their metric of choice? Why aren’t they talking about revenue? Why is it accumulative, and not month-to-month? What about churn rate? The number was a great selling point, but it says little about how well the business is doing.
 
+--- 
 I’ve realized there’s 2 types of metrics: vanity versus real. The first type is the one that people applaud you for and talk about, and the second is what that actually matters. Usually, there’s little overlap. For a start-up, vanity metrics is often about money and valuation: this company raises \$X million at \$10X valuation for its seed round. While real metrics is: is this product solving a real problem for customers? For a job, it’s about brand names (FAANG) and total compensation versus whether the job brings joy and fulfillment. For dating/ relationship, it’s about title (6’’1 MBA at Berkeley/ 6’’5 graduate at Stanford/ 6’’0 SWE at Google) versus how the person makes you feel. The list goes on.
 
 As I go through the list, there’s a few things that I notice:
@@ -17,7 +18,7 @@ As I go through the list, there’s a few things that I notice:
     They barely even qualify as a metric in most cases e.g. how to do actually calculate whether a job bring you fulfillment? That means it’s easier to showcase and optimize for vanity metrics. But that’s often a trap! Because it would lead us chasing for things that don’t bring us to our goal e.g. a start-up that raises millions but burn through cash, a job that makes six figure but bring now joy, a person that’s great on paper but is toxic for you.
     
 2. At the same time, there’s probably a correlation between real versus vanity metric. 
-    
+
     A start-up that raises a lot of money probably means it has a unique vantage point that might be valuable, and someone who work at FAANG probably does know at least some coding. The problem is that the correlation is probably weaker than we think. Which leads me to
     
 3. There are better proxies for quantifying our real metric of interest, but it involves letting in a lot more subjective data. 
