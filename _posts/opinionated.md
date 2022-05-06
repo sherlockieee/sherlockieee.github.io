@@ -85,11 +85,8 @@ To get a SWE internship, you need to:
 - Nail your interview
 
 That’s about it. Each of these things we can break down further, but as long as you do these components well, the path is pretty straightforward.
-
 ## A good resume
-
 ### Content
-
 A good resume should showcase one thing:
 
 - You can code.
