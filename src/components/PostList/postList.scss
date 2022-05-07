@@ -49,6 +49,8 @@
 
     .title {
       font-size: 1.3rem;
+      line-height: 1.5;
+      letter-spacing: 0.25px;
 
       @media screen and (max-width: $break-m) {
         font-size: 1.1rem;

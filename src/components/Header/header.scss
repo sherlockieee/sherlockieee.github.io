@@ -7,7 +7,7 @@
   width: 100%;
   align-items: center;
   justify-content: space-between;
-  padding: 2rem;
+  padding-inline: 2rem;
   height: $header-height;
   max-height: $header-height;
   transition: top 0.3s ease 0.2s; // toggleTheme();
@@ -16,16 +16,14 @@
   pointer-events: none;
 
   @media screen and (max-width: $break-l) {
-    padding: 2rem;
     z-index: 2;
   }
   @media screen and (max-width: $break-m) {
-    padding: 2rem 1.5rem 2rem 1rem;
     height: $header-height-m;
   }
   @media screen and (max-width: $break-s) {
     height: $header-height-s;
-    padding: 2rem 1rem;
+    padding-inline: 1rem;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   }
 
@@ -46,7 +44,7 @@
 
   .header-title {
     display: flex;
-    align-items: flex-end;
+    align-items: center;
 
     @media screen and (max-width: $break-s) {
       align-items: center;
@@ -166,7 +164,7 @@
     align-items: center;
     justify-content: space-between;
     margin: 0;
-    width: 6rem;
+    width: 8rem;
 
     li {
       list-style: none;
@@ -175,7 +173,7 @@
 
       svg {
         margin: 0;
-        height: 1.2rem;
+        height: 100%;
         transition: opacity 0.3s;
         opacity: 0.7;
 
