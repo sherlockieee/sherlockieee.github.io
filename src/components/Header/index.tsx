@@ -75,7 +75,7 @@ const Header = (props: headerPropsType) => {
     }
 
     const setVisible = () => {
-      setYPos(prevYPos => {
+      setYPos((prevYPos) => {
         const currentYPos = window.pageYOffset;
 
         if (currentYPos > 0) setIsHide(prevYPos < currentYPos);
@@ -113,33 +113,32 @@ const Header = (props: headerPropsType) => {
       </div>
 
       <nav id="nav">
-        <div className="theme-toggle">
-          <div className="theme-toggle-description" style={{ display: isMobile ? 'none' : 'flex' }}>
-            <Fa
-              icon={colorMode === 'dark' ? faMoon : faSun}
-              style={{ fontSize: colorMode === 'dark' ? '1.1rem' : '1.2rem' }}
-            />
-            <Fa icon={faChevronRight} style={{ fontSize: '0.9rem' }} />
-          </div>
-
-          <Fa
-            icon={colorMode === 'dark' ? faSun : faMoon}
-            style={{ fontSize: colorMode === 'dark' ? '1.2rem' : '1.1rem' }}
-            onMouseEnter={() => {
-              const toggle: HTMLDivElement | null = document.querySelector('.theme-toggle-description');
-              if (toggle) toggle.style.opacity = '0.5';
-            }}
-            onMouseLeave={() => {
-              const toggle: HTMLDivElement | null = document.querySelector('.theme-toggle-description');
-              if (toggle) toggle.style.opacity = '0';
-            }}
-            onClick={() => {
-              toggleTheme();
-            }}
-          />
-        </div>
-
         <ul>
+          <li className="theme-toggle">
+            <div className="theme-toggle-description" style={{ display: isMobile ? 'none' : 'flex' }}>
+              <Fa
+                icon={colorMode === 'dark' ? faMoon : faSun}
+                style={{ fontSize: colorMode === 'dark' ? '1.1rem' : '1.2rem' }}
+              />
+              <Fa icon={faChevronRight} style={{ fontSize: '0.9rem' }} />
+            </div>
+
+            <Fa
+              icon={colorMode === 'dark' ? faSun : faMoon}
+              style={{ fontSize: colorMode === 'dark' ? '1.2rem' : '1.1rem' }}
+              onMouseEnter={() => {
+                const toggle: HTMLDivElement | null = document.querySelector('.theme-toggle-description');
+                if (toggle) toggle.style.opacity = '0.5';
+              }}
+              onMouseLeave={() => {
+                const toggle: HTMLDivElement | null = document.querySelector('.theme-toggle-description');
+                if (toggle) toggle.style.opacity = '0';
+              }}
+              onClick={() => {
+                toggleTheme();
+              }}
+            />
+          </li>
           <li>
             <div className="tag-wrap">
               <Link to="/tags">

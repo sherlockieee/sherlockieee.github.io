@@ -41,7 +41,6 @@ a {
   flex-direction: column;
   padding-top: $header-height;
   min-height: 100vh;
-
   @media screen and (max-width: $break-m) {
     padding-top: $header-height-m;
   }

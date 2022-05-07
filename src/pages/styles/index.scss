@@ -38,11 +38,12 @@ a:visited {
     }
 
     .index-about {
-      max-width: 640px;
+      max-width: 720px;
 
       a {
         cursor: pointer;
         text-decoration: underline;
+        text-underline-offset: 0.2rem;
       }
     }
 
