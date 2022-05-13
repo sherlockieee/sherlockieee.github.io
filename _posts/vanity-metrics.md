@@ -1,5 +1,5 @@
 ---
-title: Vanity metrics
+title: Metrics that matter
 date: 2022-04-13
 tags:
 - growth
