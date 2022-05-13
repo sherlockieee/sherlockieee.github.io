@@ -3,7 +3,6 @@ title: An opinionated guide to getting a software engineer internship at FAANG
 date: 2022-03-31
 tags:
 - software
-- growth
 ---
 
 **Warning:**

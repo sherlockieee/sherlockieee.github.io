@@ -2,7 +2,7 @@
 title: Building safeguards
 date: 2022-04-30
 tags:
-- growth
+- life-system
 ---
 
 I have a reputation among my friends to be the responsible one: the ones who hand in my assignments on time (mostly) and follow through. The one who have my shit together. I was so used to this compliment that at some point, I started believing in it myself.

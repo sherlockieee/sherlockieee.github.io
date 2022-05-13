@@ -2,7 +2,7 @@
 title: Sowing seeds
 date: 2021-11-29
 tags:
-- growth
+- mindset
 ---
 "The past 2 weeks have been crazy. Someone just refered me to work for an artist. I am finally working in the entertainment industry in LA. My dream has come true."
 

@@ -2,8 +2,8 @@
 title: Dear Ha, part 1
 date: 2022-02-28
 tags:
-- growth
-- musing
+- reflection
+- mindset
 ---
 
 I read this [interesting article](http://nickcammarata.com/writing/two-experiments-2019) a while ago where one of the experiments the author has really intrigued me: every week, I would carve out some time in the evening, and write down what I want my past self would want to know. It gives me some space for reflection, of who I want to be, and whether I'm on that path, or straying somewhere else. 

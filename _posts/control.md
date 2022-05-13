@@ -2,7 +2,8 @@
 title: On what we can, and cannot control
 date: 2021-12-21
 tags:
-- musing
+- reflection
+- mindset
 ---
 This is as much a written reflection for myself as for anyone else who's reading it.
 

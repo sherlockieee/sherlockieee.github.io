@@ -2,7 +2,7 @@
 title: A structure for good communications
 date: 2022-01-30
 tags:
-- interpersonal
+- relationship
 ---
 
 In secondary school, when we were preparing for our O level exam, I was taught how to write a paragraph using a framework: **PEEL: Point, Example, Elaboration, and Link**. We would structure our essay and every single argument in this form, highlighting our opening line as a point, how we add an example and elaborate, and then link it together at the last line. It was really useful for helping me get good grades, but I’ve since learnt that its usefulness extends beyond essays in school, to blog posts, talks, email threads, and so on. There’s a few advantages I’ve found:

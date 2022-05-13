@@ -3,7 +3,6 @@ title: Today I Learnt
 date: 2021-08-23
 tags:
 - software
-- growth
 ---
 
 **Warning**: This article contains probably 5% important information and 95% rants.
@@ -20,7 +19,7 @@ tags:
 6. Instead of starting a new repository from scratch every single time with Github and reinstalling and reordering all my file, I can simply add a remote origin aka the-second-section-that-has-been-there-all-along-but-I-never-noticed. You live, you learn.
 7. It is ridiculously difficult to install MySQL. Why are you making me suffer when I'm using your product? And at least I'm using MacOS. But that doesn't stop me from searching for MySQL Server so.many.times before realizing I need to install Workbench first. Come on, MySQL Documentation peps! Do better!
 8. I need to have lower expectations of getting started with new technology. Next time I will give myself a solid 1 day just to install things. Anything else is a plus. If it's working it's worth a celebration.
-9. It's really hard to find good tutorials teaching you exactly what you need to know. Especially when I'm at the middle stage like this: every tutorial is either Let's learn JavaScript from start! or Let's use Flask to create template application even though that sucks and no one in the real world actually uses it anyways! or Here's how to use MySQL with no instruction on how to download it because we know if we have to we would struggle too! It took me a solid 5 hours to create a first commit, and now I'm completely exhausted. Mad respect for anyone out there who's trying to learn back end on their own.
+9. It's really hard to find good tutorials teaching you exactly what you need to know. Especially when I'm at the middle stage like this: every tutorial is either Let's learn JavaScript from start! or Let's use Flask to create template application even though that sucks and no one in the real world actually uses it anyways! or Here's how to use MySQL with no instruction on how to download it because we know if we have to we would struggle too! It took me a solid 5 hours to create a first commit, and now I'm completely exhausted. Mad respect for anyone out there who's trying to learn back-end on their own.
 
 Seriously, I am starting to appreciate having guidance/ mentorship so much more now that I'm in the mid-stage, where every tutorial either doesn't exist or is too easy for me. No wonder people say you learn the most in your first internship (maybe except for mine :D). And also high-quality index of good resources. Those are hard to find. And it shouldn't be! If only we are optimizing for the right thing... (I'm talking to you, Google!)
 

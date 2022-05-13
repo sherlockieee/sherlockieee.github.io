@@ -2,7 +2,8 @@
 title: What I've Learnt from Recruiting Season
 date: 2021-10-29
 tags:
-- growth
+- reflection
+- mindset
 - software
 ---
 

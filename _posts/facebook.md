@@ -2,7 +2,7 @@
 title: Why I won't be interning at Facebook
 date: 2021-10-31
 tags:
-- growth
+- reflection
 ---
 
 > Your career is your best opportunity to have a positive impact on the world. - 80,000 hours
@@ -25,10 +25,12 @@ Recently, a friend of mine was offered an internship at British Petroleum (BP). 
 
 ---
 
-That conversation ended there, but it got me thinking. How am I sure that Facebook is not a hypocrite? How am I sure that Facebook is not making the world a worse place? There's no clear study that has measured the net positive vs negative impacts that Facebook has on the world, and I don't think there will ever be. But I think, when I said that it's not as black and white with Facebook, there's a part of me that is a hypocrite. 
-
-I'm not here to shame other people for accepting an offer from Facebook. But I'm in a privilege position to be able to choose between different offers, and so I have both the power, and responsibility, to work on something that I know for sure will make the world a better place, or at least, not making the world a worse place. I genuinely can't say that about Facebook.
+That conversation ended there, but it got me thinking. How am I sure that Facebook is different? How am I sure that Facebook is not making the world a worse place? There's no clear study that has measured the net positive vs negative impacts that Facebook has on the world, and I don't think there will ever be. But I think, when I said that it's not as black and white with Facebook, there's a part of me that is a hypocrite. 
 
 ---
 
-The world is complex, and all our decisions are no longer black and white (I can already see counter arguments as to why it's actually bad that I'm rejecting Facebook). So really, all we can do is to make the best decision we can in the moment, based on what we think is right. I am doing this because it makes sense to me, morally. And I'm writing this memo here to remind myself in the future, whenever decisions like this arise, to not be afraid to choose the path less taken.
+I'm not here to shame other people for accepting an offer from Facebook. But I'm in a privilege position to be able to choose between different offers, and I have both the power, and responsibility, to work on something that I know for sure will make the world a better place, or at least, not making the world worse. I genuinely can't say that about Facebook.
+
+---
+
+The world is complex, and all our decisions are no longer black and white (I can already see counter arguments as to why it's actually bad that I'm rejecting Facebook). So really, all we can do is to make the best decision we can in the moment, based on what we think is right. I am doing this because it makes sense to me. And I'm writing this memo here to remind myself in the future, whenever decisions like this arise, to not be afraid to choose the path less taken.

@@ -2,8 +2,9 @@
 title: Metrics that matter
 date: 2022-04-13
 tags:
-- growth
-- musing
+- startup
+- life-system
+- reflection
 ---
 
 My friend recently showed me a start-up slide deck raising its seed round. The start-up is a marketplace (think Amazon) and has an accumulative \$2 Million in GTV. Wow, that’s a huge number, but what does GTV mean? Turns out, it’s gross transaction value, the total transactional volume of every item in a marketplace. So for instance, if I post an item on Amazon that costs \$20, and Amazon takes 1% listing price, then its GTV is \$20 while its revenue might only be \$0.2. While that’s still impressive, suddenly I’m a bit more doubtful. Why is that their metric of choice? Why aren’t they talking about revenue? Why is it accumulative, and not month-to-month? What about churn rate? The number was a great selling point, but it says little about how well the business is doing.
