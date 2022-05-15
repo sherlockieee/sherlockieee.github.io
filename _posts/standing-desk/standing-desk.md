@@ -1,7 +1,11 @@
-# Engineering is a mindset, not a skill
+---
+title: Engineering is a mindset, not a skill
+date: 2022-05-13
+tags:
+- software
+- mindset
+---
 
-Last edited: May 13, 2022 9:27 PM
-Status: Drafting
 
 🎉 I just moved to Seattle! Will be here for the summer. Reach out if you’re around!
 
