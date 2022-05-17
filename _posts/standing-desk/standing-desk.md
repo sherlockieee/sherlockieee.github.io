@@ -21,7 +21,7 @@ When people ask me about software engineering, they often ask about concrete ski
 
 Like the start of any project, I opened the boxes with great excitement, ready for the challenge. The instruction manual took some time to figure out (but was still a lot clearer than most API documents), and soon enough, I was putting screws and putting pieces together. 
 
-![<How it started />](Untitled%201.png)
+![<How it started />](Untitled1.png)
 
 <How it started />
 
@@ -31,7 +31,7 @@ Excited, I tested my table. But low and behold, only one side of my table was mo
 
 Reluctantly, I removed the top I have already screwed in, but because of this I could see clearly that one side of the rod was spinning, while the other wasn’t, and the spin was what caused the leg to go up and down. So I took it out, tried a bunch of ways based on how I observed the other side to function, and after what seems like infinity, it worked! Both sides were spinning, and my desk now has the same height for each leg. I took photos, like all proud mothers, and proceeded to share it with social media, like all millennials. 
 
-![<The end result 🎊 />](Untitled%202.png)
+![<The end result 🎊 />](Untitled2.png)
 
 
 ---
