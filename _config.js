@@ -1,6 +1,6 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `Ha (sherlockieee)`,                           // (* Required)
+  title: `Sherlockieee`,                           // (* Required)
   description: `Thoughts, loosely organized.`,          // (* Required)
   author: `Ha`,                         // (* Required)
   language: 'en',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
@@ -17,13 +17,15 @@ module.exports = {
   comment: 'Thoughts, loosely organized.',
   name: 'Ha Tran Nguyen Phuong',
   company: 'Minerva University',
-  location: 'San Francisco, CA',
+  location: 'Seattle, WA',
   email: 'phuonghatrannguyen00@gmail.com',
   website: '',           // ex.'https://junhobaik.github.io'
   linkedin: 'https://www.linkedin.com/in/trannguyenphuongha/',                                                       
   facebook: '',                                                          
   instagram: '',                                                         
-  github: 'https://github.com/sherlockieee',                                                           
+  github: 'https://github.com/sherlockieee',
+  goodreads: 'https://www.goodreads.com/user/show/50839792-ha-tran-nguyen-phuong',
+  strava: 'https://www.strava.com/athletes/75122613',                                                           
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)

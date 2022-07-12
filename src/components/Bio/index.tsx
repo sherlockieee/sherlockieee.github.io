@@ -1,6 +1,15 @@
 import * as React from 'react';
 import { FontAwesomeIcon as Fa } from '@fortawesome/react-fontawesome';
-import { faUserCircle, faAt, faMapMarkerAlt, faLink, faAddressCard, faRss } from '@fortawesome/free-solid-svg-icons';
+import {
+  faUserCircle,
+  faAt,
+  faMapMarkerAlt,
+  faLink,
+  faAddressCard,
+  faRss,
+  faRunning,
+  faBook,
+} from '@fortawesome/free-solid-svg-icons';
 import { faFacebook, faInstagram, faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 
 import './bio.scss';
@@ -8,7 +17,8 @@ import config from '../../../_config';
 import { Link } from 'gatsby';
 
 const Bio = () => {
-  const { comment, name, company, location, email, website, linkedin, facebook, instagram, github } = config;
+  const { comment, name, company, location, email, website, linkedin, facebook, instagram, github, goodreads, strava } =
+    config;
 
   return (
     <div className="bio">
@@ -94,6 +104,18 @@ const Bio = () => {
         {!github ? null : (
           <a href={github} target="_blank" rel="noopener noreferrer">
             <Fa icon={faGithub} className="github" />
+          </a>
+        )}
+
+        {!strava ? null : (
+          <a href={strava} target="_blank" rel="noopener noreferrer">
+            <Fa icon={faRunning} className="github" />
+          </a>
+        )}
+
+        {!goodreads ? null : (
+          <a href={goodreads} target="_blank" rel="noopener noreferrer">
+            <Fa icon={faBook} className="github" />
           </a>
         )}
       </div>
