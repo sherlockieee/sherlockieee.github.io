@@ -80,7 +80,7 @@ const Bio = () => {
         <Link to="/books">Book Recommendations</Link>
       </div>
 
-      <div className="bio-item books">
+      <div className="bio-item">
         <Link to="/life-lessons">Life lessons</Link>
       </div>
 
