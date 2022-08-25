@@ -80,6 +80,10 @@ const Bio = () => {
         <Link to="/books">Book Recommendations</Link>
       </div>
 
+      <div className="bio-item books">
+        <Link to="/life-lessons">Life lessons</Link>
+      </div>
+
       <div className="social">
         <a href={`${config.siteUrl}/rss`} target="_blank" rel="noopener noreferrer">
           <Fa icon={faRss} className="rss" />
