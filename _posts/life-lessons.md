@@ -50,21 +50,6 @@ tags:
 - Whenever possible, work on a project along side learning. E.g. if you are learning about biology, try to work in a lab. Learn CS ⇒ build an app as you go.
 - Whenever possible, find mentor(s)/ teacher(s) and peers to learn alongside with you.
 
-## People
-
-- Quality > quantity apply to people too. Both in terms of number of people and time spent.
-- Schedule time to talk to other people, especially those you are close to. Not talking to people is like not exercising, you might not feel the day-to-day effect, but over time, it makes your life worse.
-- 80% of relationship-building is follow-up. Most people are open to chat, you just need to reach out!
-- Set high standards for people you surround yourself with. This means not just friends and family, but also podcasts, books, media, etc.
-- If you can, always offer to pay for coffee/ food the first time you met someone new. If they insist on paying, say “You can get it next time.”
-- The best thing you can do for people is to believe in them. Very often we cannot see the best versions of ourselves until others put that faith in us.
-- Learn to communicate well. Non-violence communication and How to win friends and influence people are a good start.
-- Live close to your loved ones.
-- Ask people often what they need and figure out how you can help them.
-- If your family or close friends need support, drop everything and be there for them.
-- Relationship can take a lot of mental space, especially during the chase. So take note as you’re dating: what does it feel like with the person?
-- The best people to befriend are those with a positive growth mindset.
-
 ## Health
 
 - Eat well, get enough sleep, exercise, drink water. Do these first before you try any optimization or fad diets.
@@ -81,4 +66,19 @@ tags:
 - Donate at least 10% of your income to effective charities.
 - Money is in essence, a store of value. Instead of trying to be rich, try to create value.
 - Saving can only get you so far. Try increasing your income instead.
-- 
+  
+
+## People
+
+- Quality > quantity apply to people too. Both in terms of number of people and time spent.
+- Schedule time to talk to other people, especially those you are close to. Not talking to people is like not exercising, you might not feel the day-to-day effect, but over time, it makes your life worse.
+- 80% of relationship-building is follow-up. Most people are open to chat, you just need to reach out!
+- Set high standards for people you surround yourself with. This means not just friends and family, but also podcasts, books, media, etc.
+- If you can, always offer to pay for coffee/ food the first time you met someone new. If they insist on paying, say “You can get it next time.”
+- The best thing you can do for people is to believe in them. Very often we cannot see the best versions of ourselves until others put that faith in us.
+- Learn to communicate well. Non-violence communication and How to win friends and influence people are a good start.
+- Live close to your loved ones.
+- Ask people often what they need and figure out how you can help them.
+- If your family or close friends need support, drop everything and be there for them.
+- Relationship can take a lot of mental space, especially during the chase. So take note as you’re dating: what does it feel like with the person?
+- The best people to befriend are those with a positive growth mindset.
