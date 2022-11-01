@@ -18,6 +18,8 @@ tags:
 - Incorporate reflection into your life, whether alone i.e. journaling, or with other people i.e. therapy/ talking to loved ones.
 - Make decisions and commit. After that, no second-guessing, no looking back and regretting. Even if you make the wrong decision, learn from it and keep moving forward.
 - The time it takes to make a decision should be inversely correlated to how easy it is to reverse it. I.e. take a short time to decide what you are wearing, but a long time to decide who you are going to marry.
+- Most questions, doubts and worries become nothing 10 years from now. Keep that in mind if you find yourself putting in too much energy for something insignificant long-term.
+- People come and people go, only you stay. Learn to prioritize yourself, and to be contented with yourself. You wouldn't want to befriend someone who make you feel miserable all the time, so don't be that person to yourself.
 
 ## Happiness
 
@@ -82,3 +84,4 @@ tags:
 - If your family or close friends need support, drop everything and be there for them.
 - Relationship can take a lot of mental space, especially during the chase. So take note as you’re dating: what does it feel like with the person?
 - The best people to befriend are those with a positive growth mindset.
+- People come and go. Learn to be ok with people leaving and don't take it for granted when people stay.
