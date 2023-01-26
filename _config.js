@@ -14,10 +14,10 @@ module.exports = {
     // If the file does not exist, it is replaced by a random image.
 
   /** Home > Bio information*/
-  comment: 'Thoughts, loosely organized.',
+  comment: 'Climate, software, books, relationships, growth.',
   name: 'Ha Tran Nguyen Phuong',
   company: 'Minerva University',
-  location: 'Seattle, WA',
+  location: 'Taipei, Taiwan (until April 2023)',
   email: 'phuonghatrannguyen00@gmail.com',
   website: '',           // ex.'https://junhobaik.github.io'
   linkedin: 'https://www.linkedin.com/in/trannguyenphuongha/',                                                       
