@@ -2,8 +2,8 @@
 title: The rise of TSMC: Taiwan’s silicon shield
 date: 2023-03-31
 tags:
-- reflection
-- mindset
+- books
+- software
 ---
 
 
