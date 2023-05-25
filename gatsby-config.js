@@ -191,7 +191,7 @@ const gatsbyConfig = {
             query: `
               {
                 allMarkdownRemark(
-                  sort: { order: DESC, fields: [frontmatter___date] }, limit: 10
+                  sort: { order: DESC, fields: [frontmatter___date] }, limit: 50
                 ) {
                   edges {
                     node {
