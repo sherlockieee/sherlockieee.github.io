@@ -1,0 +1,25 @@
+On the night before our 10-day silent meditation retreat, we were asked to surrender all our electronics, reading & writing materials. I put my phone & laptop in a locker, but later panicked when I realized I had forgotten about my kindle. Maybe it would tempt me to break the rules of no reading and writing, wanting to escape from my thoughts. I quickly realized that was the last thing I needed to worry about. 
+
+When I signed up for the 10-day retreat, I told Trang I was nervous about my mind. “What’s in your mind that you are so scared of?”, she laughed. “I don’t know, maybe I would go insane.” Or insanely bored.
+
+For all that fear, I quickly learned that my thoughts were not even the most urgent worry. I had never sat & meditated for longer than 30 minutes and always with back support. Now I was sitting cross-leg without anything to lean on for 10+ hours a day. On the 1st day, I felt like my right back was actually breaking in two. The video teaching said to expect pain, but still I went to my teacher to ask again, just in case. Is there any stretching I can do to ease the pain? “Don’t worry, pain is good. Just ignore it and focus on your breathing.” Wtf? 
+
+Every time I went out of the Meditation Hall I felt physically exhausted. Like I ran a marathon even though I was literally doing the opposite, sitting there doing nothing. In the evening, I would go in my room, & lied on my bed staring at the ceiling, unable to do anything more. The kindle was the last thing on my mind.
+
+Before the course began Trang was telling us her previous retreat, “A lot of people liked it, but there was this woman who said it didn’t work for her. But she didn’t even meditate that much, I never saw her in the Hall for any optional sitting!” So the overachieving Asian in me decided to go to every single session, whether I felt like it or not. Every morning I would drag myself out of bed at 4.30 AM meditate 2 hours before breakfast, and after meditate all morning, then lunch, again in the afternoon, then snack, then the group sitting in the evening and went to bed by 9.30. Then do it all over again the next day. In total I was meditating 12.5 hours a day, as I calculated then re-checked the math multiple times during sittings. I was meditating as much as I would if I meditate every day for 15 minutes for a whole year, squeezed into a 10-day span. So if I come out not having any benefits, you cannot say it’s because I slack off.
+
+The pain has subdued for a while now, enough that I could focus on my thoughts. You would think that meditating for that long daily, by day 3 or 4 my mind would be completely silent, or I would have breakdowns over deep dark traumas of the past. I expected both and got neither. Instead my mind wandered and wandered, through places and memories and people, some moments I was surprised I still kept in my head, hidden in that dusty high shelf of my memory, suddenly getting examined. And then as I was indulging in these memories for 5, 10, 15 minutes, I suddenly noticed, oh, right, I’m here to meditate.
+
+Fine. Deep breath in and start again.
+
+ The woman walking in front of me had stopped to marvel at ants on the sidewalk. I’m still not there yet. But I had started to notice the trees more. There was one close to the Hall that I named “sexy trees”.  Unlike most trees with jagged barks, this tree’s trunk is completely smooth, giving it a sleek look that I find sexy. I made a mental note to take a photo once I got my phone & look up the species afterwards.
+
+
+
+The hour is long but the day is short. I’m meditating and agonizing, when, whennnnnnn, will this meditation session end. It surely has to be an hour already, no? Maybe the gong isn’t working today. My leg has stitches and I want to move now. Oh, and my back hurts too, oh, and, and, and. And the gong rings, and it was over. All of that agony flew out of my head as I quickly stood up to go outside and stretch. I thought meditation was supposed to make me calmer, but it was day 5 and I was still always the first out of the door once the session ended. My walking pace was still faster than everyone else, as was my eating pace. 
+
+But I had started to enjoy this new rhythm of my life. I woke up & just meditated, ate, walked a bit, meditated a bit more, listened to the teaching in the evening, which I always felt like a movie night, which now I lol because when Buddhist teaching becomes as exciting as a movie, you know how boring that life must be, but I enjoy it all the same. Food was always good, and I did not need to plan what to do, where to go, or even what kind of small talk I wanted to have with the women around me. The silence was not as bad as I thought.
+
+Sam Altman says the day is long but the decade is short. Now my hour is long but my day is short. Does that mean if I live like a monk, my decade would be long?
+
+It’s day 6 and I’m freaking out. From day 4 we are doing sitting of strong determination, which means you do not move for 1 hour. I was able to 
